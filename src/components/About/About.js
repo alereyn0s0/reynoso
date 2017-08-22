@@ -39,7 +39,7 @@ const About = ({}, context) => {
           </p>
 
           <p style={styles.text}>
-            Alejandra has studied with various coaches from Richard Brander to Aaron Pont. After returning to Los Angeles, however, she studied a variation of the Chubbuck Technique (focus on the Stanislavski Method) with veteran actor and acting coach Rod Rowland. 
+            Alejandra has studied with various coaches from Richard Brander to Aaron Pont. After returning to Los Angeles, however, she studied a variation of the Chubbuck Technique (focus on the Stanislavski Method) with veteran actor and acting coach Rod Rowland.
           </p>
 
           <p style={styles.text}>
@@ -47,7 +47,7 @@ const About = ({}, context) => {
           </p>
 
           <p style={styles.text}>
-            Alejandra is an animal lover, tea enthusiast, aspiring world traveller, closet writer, ballet folklorico dancer, and Netflix binge-watcher! Feel free to connect with her on social media!
+            Alejandra is an animal lover, tea enthusiast, aspiring world traveller, and Netflix binge-watcher! Feel free to connect with her on social media!
           </p>
         </div> {/* BIO */}
 

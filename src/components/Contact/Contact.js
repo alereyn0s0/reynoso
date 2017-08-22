@@ -13,15 +13,10 @@ const Contact = () => {
     <div style={styles.container}>
 
       <div style={styles.voiceOverWrapper}>
-        <h2 style={styles.agentHeader}>Voice Over Agents</h2>
-        <p style={styles.agentGroup}>
-          Dean Panaro <br />
-          James Murray <br />
-          Melanie Thomas
-        </p>
+        <h2 style={styles.agentHeader}>Abrams Artists Agency</h2>
+
 
         <p style={styles.agentGroup}>
-          <span style={styles.bold}>Abrams Artists Agency</span> <br />
           750 North San Vicenete Blvd <br />
           East Tower 11th Floor <br />
           Los Angeles, CA 90069
