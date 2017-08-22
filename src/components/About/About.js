@@ -24,7 +24,7 @@ const About = ({}, context) => {
         </div>
 
         <div style={styles.bio}>
-          <h2 style={styles.header}>About Alejandra</h2>
+          <h2 style={styles.header}>About Me</h2>
 
           <p style={styles.text}>
             Alejandra started her acting career in commercials--working both the English-speaking and Spanish-speaking markets--as well as doing student films and local theater. Eventually she transitioned into Voice Over, where she discovered a love for building and inhabiting animated characters.
