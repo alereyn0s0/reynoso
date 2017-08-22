@@ -24,7 +24,7 @@ const About = ({}, context) => {
         </div>
 
         <div style={styles.bio}>
-          <h2 style={styles.header}>About Me</h2>
+          <h2 style={styles.header}>About Alejandra</h2>
 
           <p style={styles.text}>
             Alejandra started her acting career in commercials--working both the English-speaking and Spanish-speaking markets--as well as doing student films and local theater. Eventually she transitioned into Voice Over, where she discovered a love for building and inhabiting animated characters.
@@ -35,11 +35,11 @@ const About = ({}, context) => {
           </p>
 
           <p style={styles.text}>
-            While working on the show she was also accepted to Stanford University where she majored in Communication (Media Studies) and minored in Japanese Language and Culture. She graduated from Stanford University in 2016 with a B.A. with Honors and moved back home to Los Angeles to pursue a full-time acting career.
+            While working on the show she was also accepted to Stanford University where she majored in Communication (Media Studies) and minored in Japanese Language and Culture. She graduated from Stanford University with a B.A. with Honors and moved back home to Los Angeles to pursue a full-time acting career.
           </p>
 
           <p style={styles.text}>
-            After returning to Los Angeles she studied script analysis and rehearsal prep through a variation of the Chubbuck Technique with veteran actor and acting coach Rod Rowland. This technique incorporates traditional teachings such as the Stanislavski Method while incorporating modern behavioral science and psychology.
+            Alejandra has studied with various coaches from Richard Brander to Aaron Pont. After returning to Los Angeles, however, she studied a variation of the Chubbuck Technique (focus on the Stanislavski Method) with veteran actor and acting coach Rod Rowland. 
           </p>
 
           <p style={styles.text}>
