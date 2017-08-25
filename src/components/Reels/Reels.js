@@ -11,9 +11,9 @@ import ShowCards from '../SocialLinks/ShowCards';
 const Reels = () => {
   return (
     <div style={styles.container}>
-      <h2 style={styles.header}>Theatrical Reel</h2>
+      <h2 style={styles.header}>Self Tape Demo</h2>
       <ReactPlayer
-        url='https://vimeo.com/109546414'
+        url='https://vimeo.com/230361402'
         style={styles.videoPlayer}
       />
 
